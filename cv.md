@@ -9,6 +9,7 @@ Brand manager with eight years of experience in procurement department and wide 
 *	Git
 *	Adobe Photoshop/Figma
 
+
 ## Education:
 *	Belarusian State Institute of Informatics and Radioelectronics. Qualification:  Electronics engineer
 
